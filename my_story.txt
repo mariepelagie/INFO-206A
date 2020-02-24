@@ -1,0 +1,30 @@
+START| FAMINE,HURRICANE,FEAST| A long time ago, somewhere in the Savannas of Africa, when all the animals could clearly communicate with each other there was a huge event.  What do you think happened ? a) There was a famine in the Animal Kingdom or b) A hurricane swept accross the land or c) A feast was declared in the Animal Kingdom
+
+FAMINE|COUNCIL,PLANTING,WAITING| There was no food in the land. The animals decide to a) seek council from cunning turtle b) mobilize animals to work in the fields or c)wait it out
+
+HURRICANE|FOOD,WATER,DECIMATION| The hurricane caused heavy damages throughout the kingdom. Do you think the hurricane is destroyed the fields or b) poisoned the water or c)killed all the animals.
+
+FEAST|HAPPY, SICKNESS| A feast was declared throughout the Animal Kingdom, and the cook used water from the stream to wash the produce for the banquet. Does the cook a)filter the water or b) use the water as is.
+
+HAPPY|SAVE| It turns out that the contaminants were filtered out and the food was delicious and healthy.
+
+FOOD|FAMINE,PLANTING| The fields were completely destroyed and all harvest lost. Will the animals a)starve or b) rebuild thier fields
+
+PLANTING|SAVE| Hard work pays off, the animals survive.
+
+WATER|SUFFERING| A wave of toxic materials was swept into the water.
+
+SICKNESS|SUFFERING,DECIMATION| It turns out that the water was contaminated. Are  the animals a)sick or b) all dead
+
+SUFFERING|PONDERING| The animals wondered what they were going to do. 
+
+PONDERING|COUNCIL,WAITING| Should the Animals a)seek council from the cunning turtle or b)wait it out
+
+WAITING|DECIMATION| There was no food in the land.
+
+COUNCIL|DECIMATION, SAVE, WAITING| The animals pool together their treasures and present to the turtle so that it can help them with thier problem. what do you think the turtle should do ? a) Escape with the valuables b) Use the resources to save the animals c) Hide the treasures and do nothing.
+
+SAVE|| And the animals overcame all thier challenges.
+
+
+DECIMATION|| All the animals eventually die.
